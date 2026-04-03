@@ -1,13 +1,13 @@
 # Volt - Privacy Policy
 
-**Last updated:** March 2026
+**Last updated:** April 2026
 
 ## What Volt collects
 
 Volt stores the following data **locally on your device only**:
 
 | Data | Purpose | Where stored |
-|------|---------|--------------|
+|------|---------|--------------| 
 | Battery level readings (0–100%) | Power usage graph and time estimates | Local file (`battery_history.json`) |
 | Charging state (true/false) | Distinguish charge/discharge sessions | Local file |
 | Timestamps of readings | Graph x-axis, age calculations | Local file |
@@ -28,7 +28,7 @@ All data remains on your device. Volt has no servers, no cloud sync, no account 
 
 ## CSV export
 
-The "Export history as CSV" feature writes a file to your Downloads folder containing your battery readings. This file is yours — Volt does not transmit it anywhere. You choose whether to share it.
+The "Export history as CSV" feature writes a file to your Downloads folder containing your battery readings. This file is yours - Volt does not transmit it anywhere. You choose whether to share it.
 
 ## Permissions explained
 
@@ -52,5 +52,4 @@ Volt does not collect any data from anyone, including children under 13.
 
 ## Contact
 
-Questions? Open an issue at https://github.com/bonnie-mcconnell/volt-battery
-
+Questions about this privacy policy? Contact: bonniep.mcconnell@gmail.com
