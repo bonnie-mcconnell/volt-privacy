@@ -1,4 +1,4 @@
-# Volt - Privacy Policy
+# Volt  -  Privacy Policy
 
 **Last updated:** April 2026
 
@@ -28,16 +28,16 @@ All data remains on your device. Volt has no servers, no cloud sync, no account 
 
 ## CSV export
 
-The "Export history as CSV" feature writes a file to your Downloads folder containing your battery readings. This file is yours - Volt does not transmit it anywhere. You choose whether to share it.
+The "Export history as CSV" feature writes a file to your Downloads folder containing your battery readings. This file is yours. Volt does not transmit it anywhere. You choose whether to share it.
 
 ## Permissions explained
 
 | Permission | Why needed |
 |-----------|-----------|
 | `FOREGROUND_SERVICE` | Keep the battery monitoring service running |
+| `FOREGROUND_SERVICE_DATA_SYNC` | Android 14+ foreground service type declaration |
 | `RECEIVE_BOOT_COMPLETED` | Restart monitoring after device reboot |
 | `POST_NOTIFICATIONS` | Show battery level in notification bar |
-| `REQUEST_IGNORE_BATTERY_OPTIMIZATIONS` | Prevent Android from stopping the service |
 | `USE_EXACT_ALARM` | Keep-alive timer fires on schedule |
 
 Volt does not request location, contacts, camera, microphone, or any other sensitive permission.
