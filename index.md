@@ -28,7 +28,7 @@ All data remains on your device. Volt has no servers, no cloud sync, no account 
 
 ## CSV export
 
-The "Export history as CSV" feature writes a file to your Downloads folder containing your battery readings. This file is yours. Volt does not transmit it anywhere. You choose whether to share it.
+The "Export history as CSV" feature writes a file to your Downloads folder containing your battery readings. This file is yours  -  Volt does not transmit it anywhere. You choose whether to share it.
 
 ## Permissions explained
 
